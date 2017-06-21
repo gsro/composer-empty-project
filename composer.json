@@ -1,0 +1,23 @@
+{
+	"name": "gsro/composer-empty-project",
+	"description": "Composer Project for Autoloading exercise",
+	"version": "1.0.0",
+	"license": "License type (eg. MIT)",
+	"type": "project",
+	"authors": [{
+		"name": "GSRO",
+		"email": "contact@gabisuciu.ro",
+		"homepage": "https://gabidj.net",
+		"role": "Developer"
+	}],
+	"require": {},
+	"require-dev": {},
+	"autoload": {
+		"psr-4": {
+			"Project\\Namespace\\Prefix1\\": "src/"
+		},
+		"psr-0": {
+			"Pseudo_Namespace": "src/"
+		}
+	}
+}
