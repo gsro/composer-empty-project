@@ -1,7 +1,7 @@
 {
 	"name": "gsro/composer-empty-project",
 	"description": "Composer Project for Autoloading exercise",
-	"version": "v1.0.0-stable",
+	"version": "v1.0.0",
 	"license": "License type (eg. MIT)",
 	"type": "project",
 	"authors": [{
